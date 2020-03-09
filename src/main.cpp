@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 		}
 		lines.insert(l);
 	}
-	//cout << points.size() << endl;
+	cout << points.size() << endl;
 	out << points.size() << endl;
 	fin.close();
 	out.close();
